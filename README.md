@@ -19,8 +19,8 @@ Python + Tkinterで作成した、簡易的なToDoスケジューラーアプリ
 ## 🖼️ UIイメージ
 
 | ライトモード | ダークモード |
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/10850916-5215-4d43-ab06-28cc69f35569" />
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/b44a0faf-19ae-483f-b0ec-7d5349e645ab" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/10850916-5215-4d43-ab06-28cc69f35569" /><img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/b44a0faf-19ae-483f-b0ec-7d5349e645ab" />
 
 
 ---
